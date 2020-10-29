@@ -5,3 +5,7 @@ My log file for #30DaysOfCode
 ### Day 1: Oct 28, 2020
 
 **Today's Progress**: Started with the 30 days of code challenge by Hackerrank using python.
+
+### Day 2: Oct 29, 2020
+
+**Today's Progress**: Completed Day 0(Hello World) and Day 1(Data Types) using Python. 
