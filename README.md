@@ -12,5 +12,5 @@ My log file for #30DaysOfCode
 
 ### Day 3: Nov 10, 2020
 
-**Today's Progress**: Took some time off now back on track. Completed Day 2 using Python. 
+**Today's Progress**: Took some time off now back on track. Completed Day 2 and Day 3 using Python. 
 
