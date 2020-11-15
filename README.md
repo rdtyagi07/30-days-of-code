@@ -9,3 +9,8 @@ My log file for #30DaysOfCode
 ### Day 2: Oct 29, 2020
 
 **Today's Progress**: Completed Day 0(Hello World) and Day 1(Data Types) using Python. 
+
+### Day 3: Nov 10, 2020
+
+**Today's Progress**: Took some time off now back on track. Completed Day 2 using Python. 
+
